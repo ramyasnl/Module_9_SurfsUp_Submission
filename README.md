@@ -5,7 +5,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">OVERVIEW OF THE ANALYSIS</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -28,7 +28,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- OVERVIEW OF THE ANALYSIS -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -40,8 +40,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [](Jupyter notebook file)
-* [](SQLite database)
+* Jupyter notebook 
+* SQLite database
 
 
 
