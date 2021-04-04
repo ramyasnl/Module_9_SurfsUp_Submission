@@ -65,8 +65,8 @@ With this information we can conclude that the business compared to june may sli
 <!-- ROADMAP -->
 ## Summary <br/>
 
-* Comparing the two different months with these descriptive statistics suggestes the average temperatures are fairly similar between the summer (June) and winter (December)<br/>   However the ranges of temperatures in June (summer) are quite warmer compared to the ranges of temperature in Decemeber(winter), which are colder.<br/>
-* An additional query we can perform is to get the level of precipitation for the different months and analyse the data <br/>
+* Comparing the two different months with these descriptive statistics suggestes the average temperatures are fairly similar between the summer (June) and winter (December)<br/>   However the ranges of temperatures in June (summer) are quite warmer compared to the ranges of temperature in Decemeber(winter).<br/>
+* An additional query we can perform is to get the level of precipitation for the different months and analyse the data. <br/>
 * Another query we can do is to  indicate the extreme weather conditions,which can provide maximum safety to the customers and can avoid major loss in the business .<br/>
 
 
