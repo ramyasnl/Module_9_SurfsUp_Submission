@@ -30,7 +30,7 @@
 
 <!-- OVERVIEW OF THE ANALYSIS -->
 ## OVERVIEW OF THE ANALYSIS
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![https://github.com/ramyasnl/Module_9_SurfsUp_Submission/blob/main/2021-04-04%20(2).png][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
