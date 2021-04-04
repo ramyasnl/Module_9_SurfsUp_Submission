@@ -66,13 +66,16 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Results
-* ## Month of June Temperature Analysis
+* ## Month of June Temperature Analysis<br/>
 
-![alt text]()
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+![alt text](https://github.com/ramyasnl/Module_9_SurfsUp_Submission/blob/main/2021-04-04%20(4).png)<br/>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+In the month of June the average monthly temperature is 74.9 (F), the monthly max temperature is 85.0 (F) and the monthly min temperature is 64.0 (F).<br/>
+With the above information collected we know its a good season for the business .<br/>
 
+* ## Month of December Temperature Analysis<br/>
+
+![alt text](
 
 
 <!-- ROADMAP -->
