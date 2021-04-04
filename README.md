@@ -29,8 +29,7 @@
 
 
 <!-- OVERVIEW OF THE ANALYSIS -->
-## About The Project
-
+## OVERVIEW OF THE ANALYSIS
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
@@ -48,6 +47,8 @@ Here's a blank template to get started:
 
 <!-- GETTING STARTED -->
 ## Getting Started
+We are going to help W.Avy to start an "Surf n Shake" shop in Hawaii by analysing the data in the DB sqLite <br/>
+We are using sqlAlchemy for querying databases
 
 To get a local copy up and running follow these simple steps.
 
