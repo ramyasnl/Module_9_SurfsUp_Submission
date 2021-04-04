@@ -13,8 +13,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Results</a></li>
-        <li><a href="#installation">Summary</a></li>
+        <li><a href="#prerequisites"></a></li>
+        <li><a href="#installation"></a></li>
       </ul>
     </li>
     <li><a href="#usage">Results</a></li>
@@ -65,8 +65,10 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Results
+* ## Month of June Temperature Analysis
 
+![alt text]()
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -74,7 +76,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Summary
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
