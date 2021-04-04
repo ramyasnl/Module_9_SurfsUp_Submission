@@ -13,8 +13,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites"></a></li>
-        <li><a href="#installation"></a></li>
+        level of precipitation for the different months
       </ul>
     </li>
     <li><a href="#usage">Results</a></li>
@@ -41,28 +40,6 @@
 ## Getting Started
 We are going to help W.Avy to start an "Surf n Shake" shop in Hawaii by analysing the data in the DB sqLite <br/>
 We are using sqlAlchemy for querying databases
-
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Results
