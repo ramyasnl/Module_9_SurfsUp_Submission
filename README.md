@@ -16,18 +16,11 @@
         level of precipitation for the different months
       </ul>
     </li>
-    <li>
-      <ul>
-        <a href="#usage-examples">Results</a>
-      </ul>
-     </li>
-    <li>
-      <ul>
-      <a href="#roadmap">Summary</a></li>
-    </ul>
-    </li>
+    <li><a href="#usage-examples">Results</a></li> 
+    <li> <a href="#roadmap">Summary</a></li>  
+         
   </ol>
-
+  </details >
 
 
 
