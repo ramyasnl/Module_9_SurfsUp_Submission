@@ -18,9 +18,9 @@
     </li>
     <li>
       <ul>
-        <a href="#usage">Results</a>
+        <a href="#usage-examples">Results</a>
       </ul>
-        </li>
+     </li>
     <li>
       <ul>
       <a href="#roadmap">Summary</a></li>
