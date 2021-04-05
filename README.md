@@ -16,14 +16,10 @@
         level of precipitation for the different months
       </ul>
     </li>
-    <li>
-     <ul><a href="#usage-examples">Results</a></ul>
-    </li> 
+    <li><a href="#usage">Results</a></li> 
     <li> <a href="#roadmap">Summary</a></li>  
-         
-  </ol>
+    </ol>
   </details >
-
 
 
 <!-- OVERVIEW OF THE ANALYSIS -->
@@ -43,7 +39,7 @@
 We are going to help W.Avy to start an "Surf n Shake" shop in Hawaii by analysing the data in the DB sqLite <br/>
 We are using sqlAlchemy for querying databases
 
-<!-- USAGE EXAMPLES -->
+<!-- usage  -->
 ## Results
 * ## Month of June Temperature Analysis<br/>
 
@@ -64,7 +60,7 @@ With this information we can conclude that the business compared to june may sli
    Which tells its a good place to start the "Surf n Shake" business ,since the average temperature is almost more than 70(F) even during the winter season .<br/>
 
 
-<!-- ROADMAP -->
+<!-- roadmap -->
 ## Summary <br/>
 
 * Comparing the two different months with these descriptive statistics suggestes the average temperatures are fairly similar between the summer (June) and winter (December)<br/>   However the ranges of temperatures in June (summer) are quite warmer compared to the ranges of temperature in Decemeber(winter).<br/>
