@@ -39,7 +39,7 @@
 We are going to help W.Avy to start an "Surf n Shake" shop in Hawaii by analysing the data in the DB sqLite <br/>
 We are using sqlAlchemy for querying databases
 
-<!-- usage  -->
+<!-- Results  -->
 ## Results
 * ## Month of June Temperature Analysis<br/>
 
@@ -60,7 +60,7 @@ With this information we can conclude that the business compared to june may sli
    Which tells its a good place to start the "Surf n Shake" business ,since the average temperature is almost more than 70(F) even during the winter season .<br/>
 
 
-<!-- roadmap -->
+<!-- Summary -->
 ## Summary <br/>
 
 * Comparing the two different months with these descriptive statistics suggestes the average temperatures are fairly similar between the summer (June) and winter (December)<br/>   However the ranges of temperatures in June (summer) are quite warmer compared to the ranges of temperature in Decemeber(winter).<br/>
