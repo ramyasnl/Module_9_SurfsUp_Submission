@@ -1,4 +1,4 @@
-# Module_9_SurfsUp_Submission
+# SQLAlchemy_SurfsUp
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
